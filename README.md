@@ -1,8 +1,8 @@
 # Introduction
 
-This is a data science project to predict Type 2 Diabetes probability. [Click here](https://diabetes-dash-ptbr1.herokuapp.com/ "click here")  to access its web app.
+This is a data science project to predict Type 2 Diabetes probability, a binary classification problem with an imbalanced dataset. [Click here](https://diabetes-dash-ptbr1.herokuapp.com/ "click here")  to access its web app.
 
-You can check "Full feature model" directory to look at a notebook with detailed steps on how the ML model was built
+You can check "Full feature model" directory to look at a notebook with detailed steps on how the ML model was built.
 
 Or you can also look at "Web app" directory to reach a notebook detailing how the original script was adjusted to create a more user friendly ML model and the required files to deploy in Heroku an API with the model and a web app 
 
